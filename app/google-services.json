@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240013373077",
+    "project_id": "scubepermission",
+    "storage_bucket": "scubepermission.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240013373077:android:4ba533508bb7a5df71359c",
+        "android_client_info": {
+          "package_name": "com.scube.scubepermission"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240013373077-qpploistmqqn9ru5b3u3bcelc19p5pd7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHK7Coolc6vjtgZTkq4EGF1mDUINcNZGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240013373077-qpploistmqqn9ru5b3u3bcelc19p5pd7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
